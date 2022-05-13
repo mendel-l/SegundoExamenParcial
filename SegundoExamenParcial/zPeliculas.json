@@ -1,0 +1,31 @@
+[
+  {
+    "Titulo": "titulo1",
+    
+    "Age": "0001-01-01T00:00:00",
+    "Genero": "genero1",
+    "Estudio": "estudio1",
+    "Elenco": [
+      {
+        "Nombre": "nombre1",
+        "FNacimiento": "0001-01-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "Titulo": "titulo1",
+    "Age": "0001-01-01T00:00:00",
+    "Genero": "genero1",
+    "Estudio": "estudio1",
+    "Elenco": [
+      {
+        "Nombre": "nombre2",
+        "FNacimiento": "0001-01-01T00:00:00"
+      },
+      {
+        "Nombre": "nombre3",
+        "FNacimiento": "0001-01-01T00:00:00"
+      }
+    ]
+  }
+]
